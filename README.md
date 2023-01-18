@@ -1,3 +1,1 @@
-# OVX
-Un archivo por lotes que oculta carpetas cambiando sus atributos de archivo.
-Contraseña por default:  ABC123
+El script crea una carpeta "FILES" en el escritorio y cambia los atributos de la carpeta para hacer que no sea visible.
