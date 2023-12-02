@@ -1,1 +1,2 @@
-El script crea una nueva carpeta en el escritorio y cambia los atributos de la carpeta para ocultarla.
+Manten ocultos tus archivos en una carpeta secreta protegida con una clave
+Incluso si olvidas tu clave, todavia puedes recuperar tus archivos
